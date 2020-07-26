@@ -1,0 +1,6 @@
+.link {
+  color: $primary-color;
+  &:hover {
+    color: darken($primary-color, 5);
+  }
+}
